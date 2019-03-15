@@ -1,4 +1,5 @@
 select * from abc;
-create table emp(1,"shivanjali");
+create table emp values(1,"shivanjali");
 done
 drop table emp;
+insert into emp done change
