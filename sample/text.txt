@@ -3,3 +3,4 @@ create table emp values(1,"shivanjali");
 done
 drop table emp;
 insert into emp done change
+create database db1;
