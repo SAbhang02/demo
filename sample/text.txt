@@ -1,1 +1,2 @@
 select * from abc;
+create table emp(1,"shivanjali");
